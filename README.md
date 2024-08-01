@@ -20,6 +20,7 @@
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
  ![](https://camo.githubusercontent.com/a1b9ff6c4cf503bfd0326c12aadcb2574cd2738ace92d2706d7605747e94849b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5265646173682d4534344432363f7374796c653d666f722d7468652d6261646765266c6f676f3d526564617368)
+ ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
  ![](https://camo.githubusercontent.com/4b072e0f35a58f96403d65fd9e6994493a41a82c964451dae444db480326fbbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d455843454c2d46463f7374796c653d666f722d7468652d6261646765266c6f676f3d455843454c)
  ![](https://camo.githubusercontent.com/6a5fa3ba7ce89ddcc6d0f5b25f426f8f3974bdb3d6eaedd50468a5bbb2c6d18c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c655f5368656574732d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d476f6f676c65536865657473)
  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
